@@ -10,8 +10,7 @@ This project involved cleaning a raw dataset about bike buyers and preparing it 
 
 * Dataset Sheets:
 - bike_buyers: This is the original raw dataset containing 1026 records.
-- Working Sheet: This is the cleaned and prepared version of the dataset
-    It includes 1000 cleaned records with corrected labels and   an added age category column.
+- Working Sheet: This is the cleaned and prepared version of the dataset, It includes 1000 cleaned records with corrected labels and  an added age category column.
 - Pivot Table: This Sheer contains pivot tables used in dashboard.
 - Dashboard: A visual representation of the key insights from the cleaned dataset using Excel charts.
 
@@ -33,6 +32,7 @@ This project involved cleaning a raw dataset about bike buyers and preparing it 
 
 5. Created a Dashboard:
    - Included visuals summarizing bike purchase trends.
+
 
 * Tools Used:
 - Microsoft Excel
